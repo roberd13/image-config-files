@@ -2,7 +2,7 @@ Use these default config templates to customize your environment and use with th
 
 # Cassandra
 
-cassandra-env.sh
+cassandra-env.sh 
 cassandra-rackdc.properties
 cassandra-topology.properties
 cassandra-topology.yaml
