@@ -1,7 +1,7 @@
-Use these default config templates to customize your environment and use with the [DSE Config Volume](https://docs.datastax.com/en/docker/doc/docker/docker60/dockerDSEVolumes.html).  
+# Use these default config templates to customize your environment and use with the [DSE Config Volume](https://docs.datastax.com/en/docker/doc/docker/docker60/dockerDSEVolumes.html).  
 
 
-# Cassandra
+### Cassandra
 cassandra-env.sh
 cassandra-rackdc.properties
 cassandra-topology.properties
