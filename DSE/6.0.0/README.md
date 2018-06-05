@@ -2,7 +2,6 @@ Use these default config templates to customize your environment and use with th
 
 
 # Cassandra
-
 cassandra-env.sh
 cassandra-rackdc.properties
 cassandra-topology.properties
@@ -19,35 +18,15 @@ metrics-reporter-config-sample.yaml
 
 # DSE
 
-dse-env.sh
-dse.default
-dse.yaml
-logback-dsefs-shell.xml
+
 
 # Graph
 
-logback-gremlin-server.xml
-remote-objects.yaml
-remote.yaml
+
 
 # Hadoop Client
 
-hadoop-config.sh
-hadoop-env.sh
-hadoop-metrics.properties
-hadoop-metrics2.properties
-hdfs-config.sh
-httpfs-config.sh
-httpfs-env.sh
-httpfs-log4j.properties
-kms-config.sh
-kms-env.sh
-kms-log4j.properties
-log4j.properties
-mapred-config.sh
-mapred-env.sh
-yarn-config.sh
-yarn-env.sh
+
 
 
 # Search (Solr)
